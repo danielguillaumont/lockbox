@@ -1,0 +1,31 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and credentials
+.env
+.env.*
+*.pem
+*.key
+
+# Downloaded evidence
+downloads/
+
+# Temporary files and backups
+*.bak
+*.tmp
+*.log
+*.zip
+*.tar.gz
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+

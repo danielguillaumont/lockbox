@@ -1,0 +1,22 @@
+
+LOCKBOX - SECURITY INCIDENT REPORT
+
+Case ID: CASE-001
+Incident: Suspicious Login Activity
+Severity: Medium
+Status: Under Investigation
+
+Summary:
+Multiple unsuccessful login attempts were detected
+against a test workstation.
+
+Initial Findings:
+- Five failed login attempts
+- Login attempts originated from an unfamiliar IP
+- No confirmed unauthorized access
+
+Recommendation:
+Review authentication logs and continue monitoring.
+
+This is a fictional incident created for testing LOCKBOX.
+
